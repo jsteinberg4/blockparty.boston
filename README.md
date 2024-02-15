@@ -1,2 +1,2 @@
 # blockparty.boston
-Event planning website.
+ Event planning website
